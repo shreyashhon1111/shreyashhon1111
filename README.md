@@ -8,9 +8,7 @@
 
 ## 🎯 About Me
 
-I'm a dedicated and enthusiastic second-year Engineering student specializing in **Artificial Intelligence** and **Machine Learning**. I'm passionate about exploring cutting-edge technologies and solving real-world problems with data-driven solutions. I bring hands-on experience with AI/ML algorithms (supervised and unsupervised), along with strong programming skills in **Python** and **Java**.
-
----
+Third-year Engineering student specializing in Artificial Intelligence and Machine Learning. Experienced in applying AI/ML algorithms, including supervised and unsupervised learning, to develop data-driven solutions. Committed to leveraging technology to address real-world challenges.
 
 ## 🎓 Education
 
@@ -25,15 +23,15 @@ I'm a dedicated and enthusiastic second-year Engineering student specializing in
 
 ## 🛠 Technical Skills
 
-- Java
-- Python
-- Supervised & Unsupervised Learning
-- Power BI
-- Microsoft Office (Excel, Word, PowerPoint)
-- Git & GitHub (Version Control)
-- Data Analysis
-- Problem Solving
-
+●Programming Language: C, C++, Java, Python
+●Full-Stack Development: HTML, CSS, JavaScript, PHP, Bootstrap
+●Database: MySQL
+●DevOps & Automation: Docker, Jenkins, CI/CD Pipeline
+●Data Analytics & Visualization: Power BI
+●Data Structure and Algorithm: C, Java
+●Object-Oriented Programming: C, Java
+●Visualization Tools: Power BI
+●AI Tools: ChatGPT, Copilot, BlackBox, Perplexity, Gemini, DeepSeek
 ---
 
 ## 🧠 Soft Skills
@@ -47,15 +45,13 @@ I'm a dedicated and enthusiastic second-year Engineering student specializing in
 ---
 
 ## 📜 Certifications
-
-- Java Programming – *Great Learning*
-- DevOps Fundamentals – *IBM*
-- Cloud Fundamentals – *IBM*
-- Microsoft Cybersecurity – *TATA STRIVE*
-- Exploratory Data Analysis (Level 2 - AI Ready) – *Accenture, Futureskills Prime*
-- AWS Billing and Cost Management – *AWS*
-
----
+●Java programming, great learning
+●DevOps fundamentals, IBM
+●Cloud fundamentals, IBM
+●Exploratory data analysis (Level 2 - AI Ready of AI ASCEND) by Accenture, futureskills Prime
+●AWS Billing and Cost Management, AWS
+●Introduction to MongoDB
+●Introducing generative AI with AWS
 
 ## 🌐 Languages Known
 
