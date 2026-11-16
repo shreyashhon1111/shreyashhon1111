@@ -8,7 +8,7 @@
 
 ## 🎯 About Me
 
-Third-year Engineering student specializing in Artificial Intelligence and Machine Learning. Experienced in applying AI/ML algorithms, including supervised and unsupervised learning, to develop data-driven solutions. Committed to leveraging technology to address real-world challenges.
+Final-year Engineering student specializing in Artificial Intelligence and Machine Learning. Experienced in applying AI/ML algorithms, including supervised and unsupervised learning, to develop data-driven solutions. Committed to leveraging technology to address real-world challenges.
 
 ## 🎓 Education
 
